@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2ecf1e87af76fe0385e4",
+    "revision": "e84b3052529b02377736",
     "url": "/udemy-project-spa/static/css/main.779a95ff.chunk.css"
   },
   {
-    "revision": "2ecf1e87af76fe0385e4",
-    "url": "/udemy-project-spa/static/js/main.48af99b6.chunk.js"
+    "revision": "e84b3052529b02377736",
+    "url": "/udemy-project-spa/static/js/main.b4d68b14.chunk.js"
   },
   {
     "revision": "8c0c785baa203d287629",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/udemy-project-spa/static/media/img4.20f4f09c.jpg"
   },
   {
-    "revision": "4b2bfaf52f7df28055acae9135d0ed65",
+    "revision": "014db47c157e55b3bc67c08ce756d8bb",
     "url": "/udemy-project-spa/index.html"
   }
 ];
