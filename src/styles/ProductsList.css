@@ -1,0 +1,14 @@
+div.productsList ul {
+    list-style: square;
+    padding: 0 1rem;
+}
+
+div.productsList ul a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #222;
+}
+
+div.productsList ul a:hover {
+    text-decoration: underline;
+}

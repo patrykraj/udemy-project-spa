@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  max-width: 968px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  min-height: 100vh;
+}
+
+p {
+  margin: 0;
+}
+
+.header {
+  min-height: 30vh;
+}
+
+.main {
+  display: flex;
+  flex-grow: 1;
+  padding: 1rem 0;
+}
+
+.aside {
+  min-width: 200px;
+}
+
+.section {
+  flex-grow: 1;
+}
+
+.footer {
+  background-color: #111;
+  text-align: center;
+  color: #efefef;
+  text-transform: uppercase;
+  padding: 10px 0;
+  letter-spacing: 3px;
+}

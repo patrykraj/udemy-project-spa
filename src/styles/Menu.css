@@ -1,0 +1,39 @@
+ul.nav {
+  list-style: none;
+  text-transform: uppercase;
+  padding: 0;
+}
+
+ul.nav a {
+  display: block;
+  text-decoration: none;
+  color: #111;
+  font-weight: bold;
+  padding: 5px 10px;
+  transition: all 0.2s;
+}
+
+ul.nav a:hover {
+  transform: translateX(20px);
+}
+/* 
+ul.nav a.active {
+  border-left: 10px solid gray;
+  transform: translateX(10px);
+}
+
+ul.nav li:nth-child(1) a.activeLink {
+  border-left-color: tomato;
+}
+
+ul.nav li:nth-child(2) a.active {
+  border-left-color: gray;
+}
+
+ul.nav li:nth-child(3) a.active {
+  border-left-color: burlywood;
+} */
+
+ul.nav li:nth-child(4) a.active {
+  border-left-color: darkolivegreen;
+}
